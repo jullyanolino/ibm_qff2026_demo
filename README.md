@@ -6,7 +6,7 @@ IBM Qiskit Fall Fest Brasil 2026 · 10/11/2026 · Autor: **Jullyano Lino**
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO/blob/main/01_qber_bb84_eve_qiskit.ipynb)
 ![Qiskit](https://img.shields.io/badge/Qiskit-2.4.2-6929c4)
 ![Python](https://img.shields.io/badge/Python-3.13%20(Colab)-blue)
-![Licença](https://img.shields.io/badge/licen%C3%A7a-a%20definir-lightgrey)
+![Licença](https://img.shields.io/badge/MIT_License-lightgrey)
 
 ---
 
